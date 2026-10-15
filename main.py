@@ -1,0 +1,5 @@
+print("Xin chào mọi người!")
+print("Mình tên là Phạm Thị Ngọc Ánh")
+print("Mình là sinh viên khóa 67")
+print("Trường Đại học Hàng hải Việt Nam")
+print("Rất vui được làm quen với mọi người!")
